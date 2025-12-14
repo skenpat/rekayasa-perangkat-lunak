@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /blog/
+
+Sitemap: https://rpl-smkn4-bjm.sch.id/sitemap.xml
