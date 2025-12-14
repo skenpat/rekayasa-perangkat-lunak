@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "id": "tayo",
+      "title": "Mengenal Lebih Dekat Dunia Rekayasa Perangkat Lunak",
+      "excerpt": "Panduan lengkap memahami jurusan RPL dan prospek karirnya di era digital",
+      "author": "Tim RPL SMKN 4 Banjarmasin",
+      "date": "20 Agustus 2023",
+      "category": "Tutorial",
+      "readTime": "10 min read",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "tags": ["RPL", "Programming", "Software Engineering"]
+    },
+    {
+      "id": "react-native",
+      "title": "Panduan Lengkap Belajar React Native",
+      "excerpt": "Pelajari cara membangun aplikasi mobile dengan React Native dari nol",
+      "author": "Ahmad Rizki",
+      "date": "15 Agustus 2023",
+      "category": "Tutorial",
+      "readTime": "15 min read",
+      "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "tags": ["React Native", "Mobile", "Tutorial"]
+    },
+    {
+      "id": "fullstack-tips",
+      "title": "10 Tips Menjadi Full Stack Developer",
+      "excerpt": "Tips dan trik dari para ahli untuk menguasai both frontend dan backend",
+      "author": "Siti Nurhaliza",
+      "date": "12 Agustus 2023",
+      "category": "Tutorial",
+      "readTime": "12 min read",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "tags": ["Full Stack", "Career", "Tips"]
+    }
+  ]
+}

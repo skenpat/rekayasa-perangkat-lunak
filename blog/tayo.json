@@ -1,0 +1,101 @@
+{
+  "title": "Mengenal Lebih Dekat Dunia Rekayasa Perangkat Lunak",
+  "author": "Tim RPL SMKN 4 Banjarmasin",
+  "date": "20 Agustus 2023",
+  "category": "Tutorial",
+  "readTime": "10 min read",
+  "tags": ["RPL", "Programming", "Software Engineering"],
+  "featuredImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Apa Itu Rekayasa Perangkat Lunak?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rekayasa Perangkat Lunak (RPL) adalah bidang studi yang fokus pada pengembangan, perancangan, pemeliharaan, dan pengujian perangkat lunak. Di SMK Negeri 4 Banjarmasin, jurusan RPL dirancang untuk mencetak generasi programmer yang kompeten dan siap terjun ke dunia industri."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mengapa Memilih Jurusan RPL?"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Peluang karir yang luas di era digital",
+        "Kemampuan untuk menciptakan solusi teknologi",
+        "Penghasilan yang kompetitif",
+        "Kesempatan untuk bekerja secara remote",
+        "Terus berkembang dengan teknologi terbaru"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kompetensi yang Dipelajari"
+    },
+    {
+      "type": "paragraph",
+      "text": "Di jurusan RPL, siswa akan mempelajari berbagai kompetensi penting:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Pemrograman Web (HTML, CSS, JavaScript)",
+        "Pemrograman Mobile (Android, iOS)",
+        "Database Management",
+        "Framework Modern (React, Vue, Laravel)",
+        "Version Control (Git)",
+        "UI/UX Design"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prospek Karir Lulusan RPL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lulusan RPL memiliki banyak pilihan karir menarik:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Web Developer",
+        "Mobile App Developer",
+        "Software Engineer",
+        "Database Administrator",
+        "UI/UX Designer",
+        "System Analyst",
+        "Project Manager IT"
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Teknologi terbaik adalah teknologi yang tidak terasa. Tujuan utama RPL adalah menciptakan solusi yang memudahkan hidup manusia.",
+      "author": "Tim Pengajar RPL"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tips Sukses Belajar di Jurusan RPL"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Konsisten berlatih coding setiap hari",
+        "Ikuti komunitas developer lokal",
+        "Bangun portfolio proyek pribadi",
+        "Ikuti perkembangan teknologi terkini",
+        "Jangan takut untuk bertanya dan berkolaborasi"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dengan dedikasi dan passion yang tinggi, siswa RPL SMK Negeri 4 Banjarmasin siap menjadi bagian dari revolusi digital Indonesia. Mari bersama-sama membangun masa depan teknologi yang lebih cerdas!"
+      }
+    ]
+  }
+}
